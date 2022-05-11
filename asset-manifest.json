@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/codewithashim/codewithashim.cse/static/css/main.ceac5966.css",
+    "main.js": "/codewithashim/codewithashim.cse/static/js/main.cdcd8e6a.js",
+    "static/media/cv.pdf": "/codewithashim/codewithashim.cse/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.jpg": "/codewithashim/codewithashim.cse/static/media/me.4380d0eed916d20f0c6f.jpg",
+    "static/media/clinte_2.png": "/codewithashim/codewithashim.cse/static/media/clinte_2.c73cb3b53ac0667d5c44.png",
+    "static/media/project_1_cover.png": "/codewithashim/codewithashim.cse/static/media/project_1_cover.439c1f1461062c437675.png",
+    "static/media/project_3_cover.png": "/codewithashim/codewithashim.cse/static/media/project_3_cover.3d6333e5bff8f1a33412.png",
+    "static/media/project_5_cover.png": "/codewithashim/codewithashim.cse/static/media/project_5_cover.580911c277152c2f0781.png",
+    "static/media/about_me.jpg": "/codewithashim/codewithashim.cse/static/media/about_me.cbfa5dc2cb4ffc4a2383.jpg",
+    "static/media/project_8_cover.png": "/codewithashim/codewithashim.cse/static/media/project_8_cover.acf2032e647bc0f189ca.png",
+    "static/media/project_4_cover.png": "/codewithashim/codewithashim.cse/static/media/project_4_cover.da45e86094923852ae5f.png",
+    "static/media/project_9_cover.png": "/codewithashim/codewithashim.cse/static/media/project_9_cover.b2afacb009589ca01904.png",
+    "static/media/project_7_cover.png": "/codewithashim/codewithashim.cse/static/media/project_7_cover.451d7f9b6e31407042bf.png",
+    "static/media/clint_1.png": "/codewithashim/codewithashim.cse/static/media/clint_1.41981a278278bf694da3.png",
+    "static/media/project_6_cover.png": "/codewithashim/codewithashim.cse/static/media/project_6_cover.b0379224acb9d76c238f.png",
+    "static/media/project_2_cover.png": "/codewithashim/codewithashim.cse/static/media/project_2_cover.332c918aa98b17e6055c.png",
+    "index.html": "/codewithashim/codewithashim.cse/index.html",
+    "main.ceac5966.css.map": "/codewithashim/codewithashim.cse/static/css/main.ceac5966.css.map",
+    "main.cdcd8e6a.js.map": "/codewithashim/codewithashim.cse/static/js/main.cdcd8e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceac5966.css",
+    "static/js/main.cdcd8e6a.js"
+  ]
+}
